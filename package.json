@@ -3,7 +3,7 @@
   "displayName": "Best Coder Dark",
   "description": "A premium dark theme crafted for developers who live in the code. Deep contrast, vibrant syntax, easy on the eyes.",
   "version": "1.0.0",
-  "publisher": "rx-desktop",
+  "publisher": "nv-04",
   "engines": {
     "vscode": "^1.70.0"
   },
