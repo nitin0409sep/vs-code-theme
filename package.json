@@ -1,0 +1,35 @@
+{
+  "name": "best-coder-dark",
+  "displayName": "Best Coder Dark",
+  "description": "A premium dark theme crafted for developers who live in the code. Deep contrast, vibrant syntax, easy on the eyes.",
+  "version": "1.0.0",
+  "publisher": "rx-desktop",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "coder",
+    "syntax",
+    "developer"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Best Coder Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/best-coder-dark.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#151a22",
+    "theme": "dark"
+  },
+  "license": "MIT"
+}
